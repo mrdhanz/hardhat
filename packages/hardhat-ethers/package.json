@@ -1,9 +1,9 @@
 {
-  "name": "@nomiclabs/hardhat-ethers",
+  "name": "@dgrlabs/hardhat-ethers",
   "version": "2.0.3",
   "description": "Hardhat plugin for ethers",
-  "homepage": "https://github.com/nomiclabs/hardhat/tree/master/packages/hardhat-ethers",
-  "repository": "github:nomiclabs/hardhat",
+  "homepage": "https://github.com/mrdhanz/hardhat/tree/master/packages/hardhat-ethers",
+  "repository": "github:mrdhanz/hardhat",
   "author": "Nomic Labs LLC",
   "license": "MIT",
   "main": "internal/index.js",
