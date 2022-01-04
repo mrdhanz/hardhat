@@ -1,4 +1,4 @@
-import "@nomiclabs/hardhat-ethers";
+import "@dgrlabs/hardhat-ethers";
 import { extendEnvironment } from "hardhat/config";
 import { lazyObject } from "hardhat/plugins";
 

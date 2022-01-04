@@ -1,6 +1,6 @@
 {
   "name": "@dgrlabs/hardhat-ethers",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Hardhat plugin for ethers",
   "homepage": "https://github.com/mrdhanz/hardhat/tree/master/packages/hardhat-ethers",
   "repository": "github:mrdhanz/hardhat",
